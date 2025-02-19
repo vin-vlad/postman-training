@@ -12,6 +12,9 @@ const options = {
             {
                 url: "http://localhost:3000",
             },
+            {
+                url: "https://postman-training.onrender.com",
+            }
         ],
     },
     apis: ["./app.js"], // Point to files where API documentation is included
